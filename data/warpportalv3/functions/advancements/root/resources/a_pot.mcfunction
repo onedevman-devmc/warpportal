@@ -1,0 +1,2 @@
+execute as @a at @s if items entity @s inventory.* decorated_pot run advancement grant @s only warpportalv3:root/resources/a_pot
+execute as @a at @s if items entity @s hotbar.* decorated_pot run advancement grant @s only warpportalv3:root/resources/a_pot

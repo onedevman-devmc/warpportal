@@ -1,0 +1,1 @@
+stopsound @a * minecraft:entity.arrow.hit

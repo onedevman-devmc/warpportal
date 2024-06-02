@@ -1,0 +1,1 @@
+playsound minecraft:block.conduit.deactivate ambient @s ~ ~ ~ 1 0

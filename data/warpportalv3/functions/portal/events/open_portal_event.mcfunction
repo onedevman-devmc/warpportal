@@ -1,0 +1,2 @@
+execute as @s at @s run function warpportalv3:portal/structure/check
+execute if score @s[tag=!wpv3_open_portal_event_processing] wpv3_check_portal_structure matches 1..1 run function warpportalv3:portal/events/listeners/on_open_portal

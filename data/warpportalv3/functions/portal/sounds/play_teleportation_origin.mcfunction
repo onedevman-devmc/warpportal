@@ -1,0 +1,1 @@
+playsound minecraft:entity.guardian.death ambient @s ~ ~ ~ 0.5 0

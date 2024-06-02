@@ -1,0 +1,13 @@
+{
+    "name": "warpportal-v3",
+    "files": [
+        "pack.mcmeta",
+        "data"
+    ],
+    "scripts": {
+        "pack": "node npm/scripts/pack"
+    },
+    "dependencies": {
+        "archiver": "^7.0.1"
+    }
+}
