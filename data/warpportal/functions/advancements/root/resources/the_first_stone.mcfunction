@@ -1,0 +1,2 @@
+execute as @a at @s if items entity @s inventory.* lodestone run advancement grant @s only warpportal:root/resources/the_first_stone
+execute as @a at @s if items entity @s hotbar.* lodestone run advancement grant @s only warpportal:root/resources/the_first_stone

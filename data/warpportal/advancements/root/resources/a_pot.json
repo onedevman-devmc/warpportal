@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "A... pot ?"
+        },
+        "description": {
+            "text": "Yes :) ! Very useful to store your unique portal compass key. (x1 in portal structure)"
+        },
+        "icon": {
+            "id": "minecraft:decorated_pot"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        " ": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "warpportal:root/resources"
+}

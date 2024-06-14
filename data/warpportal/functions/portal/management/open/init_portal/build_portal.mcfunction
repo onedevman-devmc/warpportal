@@ -1,0 +1,1 @@
+execute as @s at @s run function warpportal:portal/management/open/init_portal/build_portal/init

@@ -1,0 +1,2 @@
+execute as @s at @s run function warpportal:portal/structure/check
+execute if score @s[tag=!wp_open_portal_event_processing] wp_check_portal_structure matches 1..1 run function warpportal:portal/events/listeners/on_open_portal

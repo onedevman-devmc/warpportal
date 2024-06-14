@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "resources"
+        },
+        "description": {
+            "text": "Resources required to create a warp portal"
+        },
+        "icon": {
+            "id": "minecraft:barrel"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        " ": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "warpportal:root"
+}

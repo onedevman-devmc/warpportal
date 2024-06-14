@@ -1,1 +1,0 @@
-execute as @e[tag=wpv3_portal,tag=!wpv3_opening] at @s run function warpportalv3:portal/management/delete_destroyed/check_and_delete

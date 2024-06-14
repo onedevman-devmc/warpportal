@@ -1,2 +1,0 @@
-execute as @a at @s if items entity @s inventory.* compass[minecraft:lodestone_tracker] run advancement grant @s only warpportalv3:root/resources/compass
-execute as @a at @s if items entity @s hotbar.* compass[minecraft:lodestone_tracker] run advancement grant @s only warpportalv3:root/resources/compass

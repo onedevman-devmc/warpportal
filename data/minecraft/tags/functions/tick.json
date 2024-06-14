@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "warpportalv3:tick"
+        "warpportal:tick"
     ]
 }

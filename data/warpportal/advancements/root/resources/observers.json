@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Observers !"
+        },
+        "description": {
+            "text": "They are the touch of redstone which give power to the portal core. (x2 in portal structure)"
+        },
+        "icon": {
+            "id": "minecraft:observer"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        " ": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "warpportal:root/resources"
+}

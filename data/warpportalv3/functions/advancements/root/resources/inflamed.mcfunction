@@ -1,2 +1,0 @@
-execute as @a at @s if items entity @s inventory.* bow[minecraft:enchantments={levels:{"minecraft:flame":1}}] run advancement grant @s only warpportalv3:root/resources/inflamed
-execute as @a at @s if items entity @s hotbar.* bow[minecraft:enchantments={levels:{"minecraft:flame":1}}] run advancement grant @s only warpportalv3:root/resources/inflamed

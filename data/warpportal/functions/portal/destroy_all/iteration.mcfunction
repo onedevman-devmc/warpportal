@@ -1,0 +1,1 @@
+$execute if data storage warpportal:registry active_portal_coordinates_map.'__$(destroy_all_loop_index)__' run function warpportal:portal/destroy_all/destroy with storage warpportal:registry active_portal_coordinates_map.'__$(destroy_all_loop_index)__'

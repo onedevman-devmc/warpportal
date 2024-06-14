@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {Tags:[wp_entity,wp_portal,wp_opening],Silent:1b,Invisible:1b,NoGravity:1b,Marker:1b,Small:1b,ArmorItems:[{id:"stone",count:1,components:{"custom_data":{teleport:{}}}},{},{},{}],NoBasePlate:1b}

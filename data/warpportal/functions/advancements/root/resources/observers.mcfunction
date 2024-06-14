@@ -1,0 +1,2 @@
+execute as @a at @s if items entity @s inventory.* observer run advancement grant @s only warpportal:root/resources/observers
+execute as @a at @s if items entity @s hotbar.* observer run advancement grant @s only warpportal:root/resources/observers

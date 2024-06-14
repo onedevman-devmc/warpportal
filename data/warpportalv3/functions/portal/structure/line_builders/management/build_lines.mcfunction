@@ -1,2 +1,0 @@
-execute as @e[tag=wpv3_portal_line_builder,tag=wpv3_axis_x] at @s run setblock ~ ~ ~ nether_portal[axis=x] keep
-execute as @e[tag=wpv3_portal_line_builder,tag=wpv3_axis_z] at @s run setblock ~ ~ ~ nether_portal[axis=z] keep

@@ -1,0 +1,2 @@
+function warpportal:uninstall/after_portal_destruction
+function warpportal:portal/destroy_all
